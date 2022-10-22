@@ -53,3 +53,34 @@ The column named 'timestamp' appears to be categorical but it's a date column. S
 
 
 , Data Modeling, Model Building and Interpretation, Machine Learning Production & Quality Assurance
+
+
+
+Kalyan Budharam
++91-8237956122
+kalyanbudharam2018@gmail.com 
+19 July, 2022
+
+
+Dear Hiring Manager,
+
+I would like to introduce myself as an applicant for the Analyst position at Google, a prestigious and reputable name in innovation technology. I am confident in my skills & abilities to perform as a Analyst at Google company due to my interests and education. Brief information about me as given below.
+
+•	I am Passionate about Data science with knowledge of softwares- Python & its libraries like Numpy, Pandas, Matplotlib, Scikit-learn, Tensor flow, Beautiful soup..., MySQL, Tableau, MS SQL Server, Power BI, MS-Office, etc
+•	Bachelor’s degree in Engineering from Walchand institute of technology, Solapur. 
+•	Qualified in GATE 2021 exam with All India Rank (AIR)- 6072.
+•	Sound knowledge of Mathematics, Statistics, Machine Learning & Deep Learning (Supervised and Unsupervised).
+•	Good knowledge of Data Science Lifecycle- Web scraping, Data Pre-processing, Exploratory Data Analysis and Visualization, Model Building and Deployment, Presentation, etc  
+
+I am passionate about Analyst role to analyse, use the data to find insights, also to solve practical business problems. Ready to adopt with latest technology and immediate joining (Lifelong Learner).
+
+I would like to thank you for taking time to review my application. I look forward to hearing more about Google company and the details of the Analyst position.
+
+
+Sincerely,
+
+Kalyan Budharam
+
+
+
+
