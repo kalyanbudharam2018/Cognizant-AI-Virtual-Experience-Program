@@ -9,3 +9,8 @@ Implemented data modelling by utilizing Random Forest Regressor model for predic
 Computed accuracy using mean absolute error (MAE).
 Performed Feature importance to check relevant features in the dataset.
 Made alluring & comprehensible presentations for the client.
+
+
+
+![image](https://user-images.githubusercontent.com/112246352/197334094-adef4e8d-45b9-42aa-9acc-794381c21435.png)
+
