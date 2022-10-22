@@ -50,7 +50,10 @@ I looked at the distributions of the data and value counts for various categoric
 
 The column named 'timestamp' appears to be categorical but it's a date column. So, I converted timestamp to datetime format. Created a 'hour' column for further analysis.
 
-
+Worked for a business problem statement on 'Gala Groceries' (dataset@ Client_size-7829,9) by implementing
+Exploratory Data Analysis (EDA), Data Modelling with Python & libraries, prepared Strategic plan in PowerPoint.
+• Model Building and Interpretation- Data Cleaned, merged, Feature Engineering, etc
+• Machine Learning Production with Random Forest Classifier, K-fold strategy, obtained Average MAE- 24%, etc
 
 
 , Data Modeling, Model Building and Interpretation, Machine Learning Production & Quality Assurance
