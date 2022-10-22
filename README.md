@@ -108,3 +108,8 @@ The unit price and temperature were important in predicting stock
 The hour of day was also important for predicting stock
 
 
+
+
+
+Resources Used:
+https://www.theforage.com/virtual-internships
