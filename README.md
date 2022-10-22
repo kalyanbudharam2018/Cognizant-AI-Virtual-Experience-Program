@@ -18,9 +18,9 @@ Dataset consists of following details:
 Data columns (total 9 columns):
 Looking at the output of the .info() method, we can intepret each column as follows:
 
-transaction_id = this is a unique ID that is assigned to each transaction
-timestamp = this is the datetime at which the transaction was made
-product_id = this is an ID that is assigned to the product that was sold. Each product has a unique ID
+transaction_id = this is a unique ID that is assigned to each transaction,
+timestamp = this is the datetime at which the transaction was made,
+product_id = this is an ID that is assigned to the product that was sold. Each product has a unique ID,
 category = this is the category that the product is contained within
 customer_type = this is the type of customer that made the transaction
 unit_price = the price that 1 unit of this item sells for
@@ -50,10 +50,6 @@ I looked at the distributions of the data and value counts for various categoric
 
 The column named 'timestamp' appears to be categorical but it's a date column. So, I converted timestamp to datetime format. Created a 'hour' column for further analysis.
 
-Worked for a business problem statement on 'Gala Groceries' (dataset@ Client_size-7829,9) by implementing
-Exploratory Data Analysis (EDA), Data Modelling with Python & libraries, prepared Strategic plan in PowerPoint.
-• Model Building and Interpretation- Data Cleaned, merged, Feature Engineering, etc
-• Machine Learning Production with Random Forest Classifier, K-fold strategy, obtained Average MAE- 24%, etc
 
 
 , Data Modeling, Model Building and Interpretation, Machine Learning Production & Quality Assurance
