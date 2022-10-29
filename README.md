@@ -88,9 +88,6 @@ Performed EDA on the cleaned data and got various insights, relationships, etc, 
 
 * For this exercise, I have used the RandomForestRegressor model, which is an instance of a Random Forest. These are powerful tree based ensemble algorithms and are particularly good because their results are very interpretable, also applying 10 K fold stategy fpr better accuracy.
 
-Finally, I got the accuracy in terms of Average Mean Absolute Error(MAE)=24%
-
-
 Finally obtained a graph shows features vs relative importance.
 ![image](https://user-images.githubusercontent.com/112246352/197336161-177763b4-eeb4-4c4e-9e8f-9ed880e96a31.png)
 
@@ -104,13 +101,8 @@ This feature importance visualisation tells us:
 
 
 ## Model performance
-The Logistic Regression model far outperformed the other approaches on the test and validation sets. 
-*	**Logistic Regression** : MAE = 24%
-
-
-
-## Productionization 
-In this step, I saved the prepared model using pickle module for further deploymnet. Then Created a absenteeism_module for deployment.Finally, Analyzed the Predicted Outputs in Tableau for various variables.
+The Random Forest Regression model performed on the test and validation sets. 
+*	**RandomForestRegressor** : MAE = 24%
 
 
 
